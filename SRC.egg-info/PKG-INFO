@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SRC
+Version: 0.0.1
+Summary: A small version of Movie Recommendation System
+Home-page: 
+Author: Rahul
+Author-email: rahulbkumar117@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+A Movie Recommendation System project
