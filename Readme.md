@@ -14,8 +14,38 @@ At its core, a recommendation system is an Artificial Intelligence-based algorit
 
 ### Discover similar films instantly! This Streamlit app provides personalized movie recommendations. Demo ###
 
-<img src="images\main image.jpg" alt="Movie Recommendation System main poster" width="800" height="400">
+<img src="images\image1.png" alt="Movie Recommendation System main poster" width="600" height="300">
 <hr>
-<img src="images\main image.jpg" alt="Movie Recommendation System main poster" width="800" height="400">
+<img src="images\image2.PNG" alt="Movie Recommendation System main poster" width="600" height="300">
 <hr>
-<img src="images\main image.jpg" alt="Movie Recommendation System main poster" width="800" height="400">
+
+## Dataset used ##
+
+<a href="https://www.kaggle.com/datasets/sakshisemalti/movies-dataset-with-posters">Dataset</a>
+<hr>
+
+## Concept used to build the model.pkl file : cosine_similarity ##
+
+###
+1 . Cosine Similarity is a metric that allows you to measure the similarity of the documents.
+
+2 . In order to demonstrate cosine similarity function we need vectors. Here vectors are numpy array.
+
+3 . Finally, Once we have vectors, We can call cosine_similarity() by passing both vectors. It will calculate the cosine similarity between these two.
+
+4 . It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
+
+5 . For more details , check URL : <a href="https://www.learndatasci.com/glossary/cosine-similarity/">Click here</a>
+
+### 
+<hr>
+
+## How to run ##
+
+## follow the steps ##
+
+### clone the repository ###
+
+```bash
+https://github.com/Rahulhimself/End-to-End-Movie-Recommendation-System-using-Machine-Learning
+```
