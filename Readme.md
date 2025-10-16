@@ -12,8 +12,11 @@ At its core, a recommendation system is an Artificial Intelligence-based algorit
 
 ## About the Project
 
-### Discover similar films instantly! This Streamlit app provides personalized movie recommendations. Demo ###
+### Discover similar films instantly! This Streamlit app provides personalized movie recommendations. ###
+## Check live demo of the application ##
 
+<a href="https://rb-movie-recommendation-system-using-machine-learning.streamlit.app/">RB_streamlit_app_demo</a>
+<hr>
 <img src="images\image1.png" alt="Movie Recommendation System main poster" width="600" height="300">
 <hr>
 <img src="images\image2.PNG" alt="Movie Recommendation System main poster" width="600" height="300">
