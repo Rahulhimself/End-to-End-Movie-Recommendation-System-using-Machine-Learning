@@ -42,10 +42,33 @@ At its core, a recommendation system is an Artificial Intelligence-based algorit
 
 ## How to run ##
 
-## follow the steps ##
+### follow the steps ###
 
 ### clone the repository ###
 
 ```bash
 https://github.com/Rahulhimself/End-to-End-Movie-Recommendation-System-using-Machine-Learning
+```
+### STEP 01- Create a conda environment after opening the repository ###
+
+```bash
+conda create -n movie python=3.7.10 -y
+```
+```bash
+conda activate movie
+```
+### STEP 02- install the requirements ###
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+#run this file to generate the models
+
+MR_test.ipynb
+```
+### run with this ###
+```bash
+streamlit run app.py
 ```
